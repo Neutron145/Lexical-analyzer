@@ -1,0 +1,2 @@
+if[if] ([br] x[id] <[co] 3[vl] &&[lo] z[id] >[co] 10[vl] )[br] {[cb] x[id] =[eq] 3[vl] ;[sc] if[if] ([br] y[id] =[eq] 4[vl] )[br] {[cb] y[id] =[eq] 4[vl] ;[sc] }[cb] }[cb] else[el] {[cb] x[id] =[eq] 5[vl] ;[sc] y[id] =[eq] 5[vl] ;[sc] }[cb] 
+OK
